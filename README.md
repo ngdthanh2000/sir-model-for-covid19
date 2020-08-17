@@ -36,6 +36,7 @@ There are three programs in this project:
   - ```eulerMethod.R```: A program to calculate the results of discrete SIR Model by using Euler method for solving first order ordinary differential equation.  
   - ```MCMC.R```: Implement Random-Walk Metropolis-Hastings algorithm to generate samples of unknown probability distributions.  
   - ```estimateR0```: Use real-time data and external libraries to predict the basic production ratio (R0) of a diseases in a specific country.  
+  
 These are two tests inside the code of ```MCMC.R``` and ```estimateR0```. To run them, just comment out the snippet of another test and run the program.
 
 ## Example
