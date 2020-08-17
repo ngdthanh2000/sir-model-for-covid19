@@ -41,11 +41,11 @@ These are two tests inside the code of ```MCMC.R``` and ```estimateR0```. To run
 
 ## Images
 
-!(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR3.png)
+![alt_text](https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR3.png)
 
-!(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR8.png)
+![alt_text(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR8.png)
 
-!(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR10.png)
+![alt_text](https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR10.png)
 
 
 ## Acknowledgment
