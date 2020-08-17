@@ -10,7 +10,7 @@ First, install R from [CRAN](https://cran.rstudio.com/) and (optional) RStudio f
 
 Then, download the files inside source-code, open and run it by RStudio!
 
-## Package
+## Packages
 
 There are some packages I have used in this project. You can install these packages directy from RStudio by typing below line in RStudio terminal.
 
@@ -39,9 +39,14 @@ There are three programs in this project:
   
 These are two tests inside the code of ```MCMC.R``` and ```estimateR0```. To run them, just comment out the snippet of another test and run the program.
 
-## Example
+## Images
 
-...
+(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR3.png)
+
+(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR8.png)
+
+(https://raw.githubusercontent.com/ngdthanh2000/sir-model-for-covid19/master/images/SIR10.png)
+
 
 ## Acknowledgment
 
